@@ -89,8 +89,8 @@ var blockProducerList = [
   },
   {
     "bp_name": "antoninus",
-    "organisation": "Michael Yeates",
-    "location": "?",
+    "organisation": "EOSdac",
+    "location": "Dublin, Ireland",
     "node_addr": "ceos.blockmaker.io",
     "port_http": "8600",
     "port_ssl": "",
@@ -115,6 +115,15 @@ var blockProducerList = [
     "port_p2p": "6600"
   },
   {
+    "bp_name": "hadrian",
+    "organisation": "EOS Green",
+    "location": "Warsaw, Poland",
+    "node_addr": "54.37.139.93",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876"
+  }/*,
+  {
     "bp_name": "publius",
     "organisation": "EOSNet.io",
     "location": "Bluffdale, UT, USA",
@@ -122,6 +131,6 @@ var blockProducerList = [
     "port_http": "8814",
     "port_ssl": "",
     "port_p2p": "6614"
-  }
+  }*/
 
 ]
