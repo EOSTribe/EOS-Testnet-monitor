@@ -7,195 +7,121 @@
 
 var blockProducerList = [
   {
-    "bp_name": "lion",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine, Kyiv",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8888",
-    "port_ssl": "",
-    "port_p2p": "9876"
-  },
-  {
-    "bp_name": "tiger",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine, Lviv",
-    "node_addr": "193.93.219.219",
-    "port_http": "8888",
-    "port_ssl": "",
-    "port_p2p": "9876"
-  },
-  {
-    "bp_name": "jaguar",
+    "bp_name": "augustus",
     "organisation": "EOSNet.io",
-    "location": "USA, Bluffdale, UT",
+    "location": "Bluffdale, UT",
     "node_addr": "eosslc.com",
-    "port_http": "8876",
+    "port_http": "8800",
     "port_ssl": "",
-    "port_p2p": "9876"
+    "port_p2p": "6600"
   },
   {
-    "bp_name": "python",
-    "organisation": "Prometeos.io",
-    "location": "Spain",
-    "node_addr": "python.prometeos.io",
+    "bp_name": "tiberius",
+    "organisation": "EOS Sweden",
+    "location": "Västerås, Sweden",
+    "node_addr": "79.136.20.170",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "claudius",
+    "organisation": "EOS Russia",
+    "location": "Novosibirsk, Russia",
+    "node_addr": "eosio.ru",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "galba",
+    "organisation": "EOS Africa",
+    "location": "Johannesburg, South Africa",
+    "node_addr": "156.38.160.91",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "otho",
+    "organisation": "EOS NY",
+    "location": "New York, NY",
+    "node_addr": "eosnet.eosnewyork.io",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "9875"
+  },
+  {
+    "bp_name": "titus",
+    "organisation": "EOS London",
+    "location": "London, UK",
+    "node_addr": "bp2-d3.eos42.io",
     "port_http": "8888",
     "port_ssl": "",
     "port_p2p": "9876"
   },
   {
-    "bp_name": "bat",
-    "organisation": "EOSIO.se",
-    "location": "Sweeden",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8896",
+    "bp_name": "domitian",
+    "organisation": "CryptoLions.io",
+    "location": "Kiev, Ukraine",
+    "node_addr": "eosnettestnet.cryptolions.io",
+    "port_http": "8909",
     "port_ssl": "",
-    "port_p2p": "9884"
+    "port_p2p": "9897"
   },
   {
-    "bp_name": "wolf",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8889",
+    "bp_name": "nerva",
+    "organisation": "EOS Detroit",
+    "location": "Columbus, Ohio",
+    "node_addr": "eosnet.eosdetroit.com",
+    "port_http": "8800",
     "port_ssl": "",
-    "port_p2p": "9877"
+    "port_p2p": "6600"
   },
   {
-    "bp_name": "bear",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8890",
+    "bp_name": "trajan",
+    "organisation": "EOS Brazil",
+    "location": "São Paulo, Brazil",
+    "node_addr": "54.233.222.22",
+    "port_http": "8800",
     "port_ssl": "",
-    "port_p2p": "9878"
+    "port_p2p": "6600"
   },
   {
-    "bp_name": "panther",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8891",
+    "bp_name": "antoninus",
+    "organisation": "Michael Yeates",
+    "location": "?",
+    "node_addr": "ceos.blockmaker.io",
+    "port_http": "8600",
     "port_ssl": "",
-    "port_p2p": "9879"
+    "port_p2p": "6600"
   },
   {
-    "bp_name": "langurs",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8892",
+    "bp_name": "marcus",
+    "organisation": "BP Node",
+    "location": "Montreal, Canada",
+    "node_addr": "35.183.1.45",
+    "port_http": "8800",
     "port_ssl": "",
-    "port_p2p": "9880"
+    "port_p2p": "6600"
   },
   {
-    "bp_name": "crow",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8893",
+    "bp_name": "septimius",
+    "organisation": "EOS Node One",
+    "location": "Seoul, South Korea",
+    "node_addr": "13.209.19.204",
+    "port_http": "8800",
     "port_ssl": "",
-    "port_p2p": "9881"
+    "port_p2p": "6600"
   },
   {
-    "bp_name": "elephant",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8895",
+    "bp_name": "publius",
+    "organisation": "EOSNet.io",
+    "location": "Bluffdale, UT, USA",
+    "node_addr": "eosslc.com",
+    "port_http": "8814",
     "port_ssl": "",
-    "port_p2p": "9883"
-  },
-  {
-    "bp_name": "cobra",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8897",
-    "port_ssl": "",
-    "port_p2p": "9885"
-  },
-  {
-    "bp_name": "fox",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8898",
-    "port_ssl": "",
-    "port_p2p": "9886"
-  },
-  {
-    "bp_name": "gorilla",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8899",
-    "port_ssl": "",
-    "port_p2p": "9887"
-  },
-  {
-    "bp_name": "lemur",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8901",
-    "port_ssl": "",
-    "port_p2p": "9889"
-  },
-  {
-    "bp_name": "boar",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8902",
-    "port_ssl": "",
-    "port_p2p": "9890"
-  },
-  {
-    "bp_name": "leopard",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8903",
-    "port_ssl": "",
-    "port_p2p": "9891"
-  },
-  {
-    "bp_name": "lizard",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8904",
-    "port_ssl": "",
-    "port_p2p": "9892"
-  },
-  {
-    "bp_name": "tortoise",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8905",
-    "port_ssl": "",
-    "port_p2p": "9893"
-  },
-  {
-    "bp_name": "wombat",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8906",
-    "port_ssl": "",
-    "port_p2p": "9894"
-  },
-  {
-    "bp_name": "zebra",
-    "organisation": "CryptoLions.io",
-    "location": "Ukraine",
-    "node_addr": "jungle.cryptolions.io",
-    "port_http": "8907",
-    "port_ssl": "",
-    "port_p2p": "9895"
+    "port_p2p": "6614"
   }
-
-
 
 ]
