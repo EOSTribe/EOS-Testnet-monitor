@@ -4,7 +4,6 @@ body, html {
 
 
 .bg {
-	background-image: linear-gradient(to bottom, rgba(255,255,255,0.8) 0%,rgba(255,255,255,.2) 100%), url(imgs/bg.jpg);
 	height: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -22,8 +21,6 @@ body, html {
 .s1 {
 	font-size: 20px;
 }
-
-
 .bold {
 	font-weight: bold;
 }
@@ -49,11 +46,11 @@ body, html {
 
 .fotertext{
 	color: black;
-	font-size: 28px;
+	font-size: 22px;
 }
 .foterlink{
 	color: black;
-	font-size: 28px;
+	font-size: 22px;
 }
 .foterlink:hover{
 	color: black;

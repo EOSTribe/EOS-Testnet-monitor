@@ -103,7 +103,7 @@ var blockProducerList = [
     "organisation": "BP Node",
     "location": "Montreal, Canada",
     "node_addr": "node-1.bpnode.com",
-    "port_http": "8800",
+    "port_http": "9878",
     "port_ssl": "",
     "port_p2p": "6600"
   },
@@ -124,6 +124,15 @@ var blockProducerList = [
     "port_http": "8888",
     "port_ssl": "",
     "port_p2p": "9877"
+  },
+  {
+    "bp_name": "lucius",
+    "organisation": "EOSphere",
+    "location": "Perth, Australia",
+    "node_addr": "eosnet-bp1.eosphere.io",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
   },
   {
     "bp_name": "hadrian",
