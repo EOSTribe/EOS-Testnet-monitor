@@ -11,9 +11,9 @@ var blockProducerList = [
     "organisation": "EOSNet.io",
     "location": "Bluffdale, UT",
     "node_addr": "eosslc.com",
-    "port_http": "8800",
+    "port_http": "8888",
     "port_ssl": "",
-    "port_p2p": "6600"
+    "port_p2p": "9876"
   },
   {
     "bp_name": "tiberius",
@@ -80,7 +80,7 @@ var blockProducerList = [
   },
   {
     "bp_name": "trajan",
-    "organisation": "EOS Brazil",
+    "organisation": "EOS Rio",
     "location": "São Paulo, Brazil",
     "node_addr": "54.233.222.22",
     "port_http": "8800",
@@ -100,7 +100,7 @@ var blockProducerList = [
     "bp_name": "marcus",
     "organisation": "BP Node",
     "location": "Montreal, Canada",
-    "node_addr": "35.183.1.45",
+    "node_addr": "node-1.bpnode.com",
     "port_http": "8800",
     "port_ssl": "",
     "port_p2p": "6600"
@@ -113,6 +113,15 @@ var blockProducerList = [
     "port_http": "8800",
     "port_ssl": "",
     "port_p2p": "6600"
+  },
+  {
+    "bp_name": "severus",
+    "organisation": "EOSBrazil.com",
+    "location": "São Paulo, Brazil",
+    "node_addr": "eosbrazil.com",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9877"
   },
   {
     "bp_name": "hadrian",
