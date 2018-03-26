@@ -7,4 +7,4 @@ please add line to config.ini for all nodes:
 access-control-allow-origin = *   
 to allow access to monitor  
   
-Example: http://jungle.cryptolions.io:9898/nodes/
+Example: http://eosslc.com/monitor/
