@@ -10,12 +10,12 @@
 var blockProducerList = [
   {
     "bp_name": "augustus",
-    "organisation": "EOSNet.io",
-    "location": "Bluffdale, UT",
-    "node_addr": "eosslc.com",
-    "port_http": "8888",
-    "port_ssl": "",
-    "port_p2p": "9876"
+    "organisation": "EOS Nation",
+    "location": "Toronto, Canada",
+    "node_addr": "eosnet.eosnation.io",
+    "port_http": "",
+    "port_ssl": "443",
+    "port_p2p": "6600"
   },
   {
     "bp_name": "tiberius",
@@ -184,6 +184,15 @@ var blockProducerList = [
     "organisation": "eosbixin.com",
     "location": "Hong Kong, China",
     "node_addr": "47.75.16.85",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "maximinus",
+    "organisation": "Stealth",
+    "location": "Shanghai, China",
+    "node_addr": "stealthbp.ddns.net",
     "port_http": "8800",
     "port_ssl": "",
     "port_p2p": "6600"
