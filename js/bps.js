@@ -21,10 +21,10 @@ var blockProducerList = [
     "bp_name": "tiberius",
     "organisation": "EOS Sweden",
     "location": "Västerås, Sweden",
-    "node_addr": "79.136.20.170",
-    "port_http": "8800",
+    "node_addr": "94.254.62.124",
+    "port_http": "8801",
     "port_ssl": "",
-    "port_p2p": "6600"
+    "port_p2p": "6601"
   },
   {
     "bp_name": "claudius",
@@ -39,7 +39,7 @@ var blockProducerList = [
     "bp_name": "galba",
     "organisation": "EOS Africa",
     "location": "Johannesburg, South Africa",
-    "node_addr": "156.38.160.91",
+    "node_addr": "lualua.eosio.africa",
     "port_http": "8800",
     "port_ssl": "",
     "port_p2p": "6600"
@@ -57,7 +57,7 @@ var blockProducerList = [
     "bp_name": "titus",
     "organisation": "EOS London",
     "location": "London, UK",
-    "node_addr": "bp2-d3.eos42.io",
+    "node_addr": "bp3-d3.eos42.io",
     "port_http": "8888",
     "port_ssl": "",
     "port_p2p": "9876"
@@ -105,7 +105,7 @@ var blockProducerList = [
     "node_addr": "node-1.bpnode.com",
     "port_http": "9878",
     "port_ssl": "",
-    "port_p2p": "6600"
+    "port_p2p": "6878"
   },
   {
     "bp_name": "septimius",
@@ -142,15 +142,51 @@ var blockProducerList = [
     "port_http": "8888",
     "port_ssl": "",
     "port_p2p": "9876"
-  }/*,
+  },
   {
     "bp_name": "publius",
-    "organisation": "EOSNet.io",
-    "location": "Bluffdale, UT, USA",
-    "node_addr": "eosslc.com",
-    "port_http": "8814",
+    "organisation": "BlockTree",
+    "location": "Columbus, Ohio",
+    "node_addr": "18.188.133.163",
+    "port_http": "8800",
     "port_ssl": "",
-    "port_p2p": "6614"
-  }*/
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "decius",
+    "organisation": "EOShenzhen",
+    "location": "Shenzhen, China",
+    "node_addr": "120.197.96.14",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "aurelian",
+    "organisation": "EOSDR.io",
+    "location": "Dominican Republic",
+    "node_addr": "testnet1.eosdr.io",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "gallus",
+    "organisation": "EOSeoul",
+    "location": "Seoul, South Korea",
+    "node_addr": "testnet01.eoseoul.com",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  },
+  {
+    "bp_name": "florian",
+    "organisation": "eosbixin.com",
+    "location": "Hong Kong, China",
+    "node_addr": "47.75.16.85",
+    "port_http": "8800",
+    "port_ssl": "",
+    "port_p2p": "6600"
+  }
 
 ]
